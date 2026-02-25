@@ -45,7 +45,7 @@ sports-car-react/
 │── package.json
 │── vite.config.js
 │── README.md
-
+```
 ---
 
 ## 🚗 Автомобили в каталоге
