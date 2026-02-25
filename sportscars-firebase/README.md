@@ -20,9 +20,9 @@
 
 ## 🛠️ Используемые технологии
 
-- React 18
+- React 
 - Vite
-- JavaScript (ES6+)
+- JavaScript
 - CSS / TailwindCSS
 - Git & GitHub
 
@@ -44,6 +44,7 @@ sports-car-react/
 │── package.json
 │── vite.config.js
 │── README.md
+
 ---
 
 ## 🚗 Автомобили в каталоге
