@@ -30,6 +30,7 @@
 
 ## 🧩 Структура проекта
 
+```
 sports-car-react/
 │── index.html
 │── src/
